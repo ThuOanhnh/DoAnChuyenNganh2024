@@ -1,8 +1,11 @@
-ĐỒ ÁN CHUYÊN NGÀNH 2024
-ĐỀ TÀI: WEBSITE BÁN LAPTOP
-Sinh viên thực hiện:
-Lê Thị Nguyên - DH52102758
-Văn Thị Thu Oanh - DH52102172
+# ĐỒ ÁN CHUYÊN NGÀNH 2024  
+
+**Đề tài:** Website bán laptop  
+
+**Sinh viên thực hiện:**  
+- Lê Thị Nguyên - DH52102758  
+- Văn Thị Thu Oanh - DH52102172  
+
 Dự án này là một website bán hàng trực tuyến được xây dựng bằng PHP.
 Hệ thống cung cấp đầy đủ các chức năng cơ bản của một website thương mại điện tử: đăng ký, đăng nhập, quản lý sản phẩm, giỏ hàng, thanh toán và quản lý đơn hàng.
 Mục tiêu:
